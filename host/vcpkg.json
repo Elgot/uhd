@@ -1,0 +1,25 @@
+{
+    "name": "uhd-host",
+    "version-string": "1.0.0",
+    "dependencies": [
+      "boost-chrono",
+      "boost-date-time",
+      "boost-filesystem",
+      "boost-program-options",
+      "boost-serialization",
+      "boost-thread",
+      "boost-test",
+      "libusb",
+      "boost-asio",
+      "boost-format",
+      "boost-math",
+      "boost-graph",
+      "boost-lockfree",
+      "boost-units",
+      "boost-circular-buffer",
+      "boost-dll",
+      "boost-assign"
+    ]
+    
+  }
+  
